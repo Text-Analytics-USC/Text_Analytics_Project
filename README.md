@@ -47,6 +47,8 @@ For a more in-depth analysis, the yelp-review-eda-pyspark-databricks.ipynb noteb
 
 Additionally, the Topic Modeling Visualization.ipynb notebook is used to visualize the results of LDA (Latent Dirichlet Allocation) topic modeling. The generated visualization is saved in the ldavis_prepared.html file.
 
+Along with this, the BERT Topic Modelling verifies our topics from using LDA. The outputs from BERT topic modelling are in a file names topics.csv. 
+
 ### Modeling
 
 MLmodels - Comparison.ipynb notebook, various vectorization methods and machine learning models are explored to identify the most suitable model for each aspect of the project. Hypothesis tests are conducted to compare the performance of these models, and the results are evaluated using F-1 metrics and AUC-ROC analysis.
