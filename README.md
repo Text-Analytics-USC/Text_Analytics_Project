@@ -59,3 +59,9 @@ To benchmark our project, we employ OpenAI's GPT3.5 model for predictive tasks. 
 - Connecting to OpenAI API: We use the gpt_api_labeling.py script to establish a connection to the OpenAI API, utilizing the GPT3.5 model for predictions. Please note that you'll need an OpenAI API key to run this script. Detailed instructions on obtaining an API key can be found in the [OpenAI API reference](https://platform.openai.com/docs/api-reference/introduction).
 
 Evaluation: In the GPT Benchmark.ipynb notebook, we evaluate the results produced by the GPT model. This evaluation helps us assess the quality and effectiveness of the model's predictions in the context of our project. 
+
+### Error Analysis
+
+This section focuses on analyzing instances where model predictions were incorrect. The goal is to understand the characteristics of these misclassified instances, identify common patterns or features in these misclassifications, and gain insights into areas where the model might need improvement. It involves reviewing classification reports to assess precision, recall, and F1-score for each class, investigating imbalanced classes, and examining feature importance. Additionally, different models are compared to determine their performance and suitability for addressing specific aspects of the project.
+
+To delve into the details of the error analysis, refer to the Error Analysis/MLmodels_error_analysis.ipynb
