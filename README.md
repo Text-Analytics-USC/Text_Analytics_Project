@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Labeling Guidline
 
-For our project, we have meticulously labeled over 3,000 reviews. Detailed instructions and insights into the labeling process can be found in the document titled "Guidelines for Yelp Restaurant Data Annotation.pdf." This document provides comprehensive guidelines and information about the methodology used in the review labeling process, ensuring the accuracy and consistency of the labeled data for our project's objectives.
+For our project, we have meticulously labeled over 3,000 reviews. Detailed instructions and insights into the labeling process can be found in the document titled "Document Guidelines for Yelp Restaurant Data Annotation.pdf." This document provides comprehensive guidelines and information about the methodology used in the review labeling process, ensuring the accuracy and consistency of the labeled data for our project's objectives.
 
 ### Data
 In the "data" folder, you'll find three important CSV files for your project:
